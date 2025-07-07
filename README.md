@@ -120,7 +120,9 @@ The chatbot is aware of:
 
 ## 📸 Preview
 
-![FoodieExpress UI](preview-screenshot.png) <!-- Add a screenshot -->
+![image](https://github.com/user-attachments/assets/fffaa588-ed0c-4783-8b4a-9a0eabe29eba)
+![image](https://github.com/user-attachments/assets/e50e11f1-51aa-4724-b504-5f2539d67e15)
+![image](https://github.com/user-attachments/assets/e14a7213-6937-4272-9dae-77b5e887f5d4)
 
 ---
 
