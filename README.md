@@ -116,13 +116,6 @@ The chatbot is aware of:
 * 📱 **Responsive design** ensured that users on mobile/tablet have the same fluidity as desktop
 * 🧠 **AI Chatbot** gives a real-time restaurant support feel, like BookMyShow/Swiggy apps
 
----
-
-## 📸 Preview
-
-![image](https://github.com/user-attachments/assets/fffaa588-ed0c-4783-8b4a-9a0eabe29eba)
-![image](https://github.com/user-attachments/assets/e50e11f1-51aa-4724-b504-5f2539d67e15)
-![image](https://github.com/user-attachments/assets/e14a7213-6937-4272-9dae-77b5e887f5d4)
 
 ---
 
